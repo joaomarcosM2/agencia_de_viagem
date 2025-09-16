@@ -12,7 +12,7 @@ Checkilist de Viagem - ViajaBem
 
 ## Saúde e Medicamentos
 
--[ ] Medicamentos pessoais
+- [ ] Medicamentos pessoais
 
 - [ ] Kit primeiros socorros
 
@@ -23,13 +23,13 @@ Checkilist de Viagem - ViajaBem
 
 ## Vestuário
 
-- [] Roupas por clima
+- [ ] Roupas por clima
 
-- [] Calçados confortáveis
+- [ ] Calçados confortáveis
 
-- [] Roupa de dormir
+- [ ] Roupa de dormir
 
-- [] Acessórios (óculos, chapéu)
+- [ ] Acessórios (óculos, chapéu)
 
 ## Tecnologia
 
@@ -73,7 +73,7 @@ Checkilist de Viagem - ViajaBem
 
 ## Saúde e Medicamentos
 
--[ ] Medicamentos pessoais
+- [ ] Medicamentos pessoais
 
 - [X] Kit primeiros socorros
 
