@@ -42,3 +42,17 @@ Checkilist de Viagem - ViajaBem
 -[ ] Cabos USB
 
 
+
+# Verificações Finais
+
+-[] Notificar banco sobre viagem
+
+-[] Baixar mapas offline
+
+-[] Confirmar check-in online
+
+-[] Checar previsão do tempo
+
+## TUDO PRONTO!
+
+# Bom embarque e ótima viagem!
