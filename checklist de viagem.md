@@ -18,3 +18,27 @@ Checkilist de Viagem - ViajaBem
 
 -[ ] Protetor solar
 
+
+
+
+## Vestuário
+
+-[] Roupas por clima
+
+-[] Calçados confortáveis
+
+-[] Roupa de dormir
+
+-[] Acessórios (óculos, chapéu)
+
+## Tecnologia
+
+-[] Carregadores portáteis
+
+-[] Adaptadores de tomada
+
+-[] Power bank
+
+-[ ] Cabos USB
+
+
