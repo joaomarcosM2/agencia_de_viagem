@@ -2,56 +2,56 @@ Checkilist de Viagem - ViajaBem
 
 ## Documentos Essenciais
 
--[ ] Passporte/Visto
+- [ ] Passporte/Visto
 
--[ ] Cartão de vacinação
+- [ ] Cartão de vacinação
 
--[ ] Seguro viagem
+- [ ] Seguro viagem
 
--[ ] Reservas de hospedagem
+- [ ] Reservas de hospedagem
 
 ## Saúde e Medicamentos
 
 -[ ] Medicamentos pessoais
 
--[] Kit primeiros socorros
+- [ ] Kit primeiros socorros
 
--[ ] Protetor solar
+- [ ] Protetor solar
 
 
 
 
 ## Vestuário
 
--[] Roupas por clima
+- [] Roupas por clima
 
--[] Calçados confortáveis
+- [] Calçados confortáveis
 
--[] Roupa de dormir
+- [] Roupa de dormir
 
--[] Acessórios (óculos, chapéu)
+- [] Acessórios (óculos, chapéu)
 
 ## Tecnologia
 
--[] Carregadores portáteis
+- [] Carregadores portáteis
 
--[] Adaptadores de tomada
+- [ ] Adaptadores de tomada
 
--[] Power bank
+- [ ] Power bank
 
--[ ] Cabos USB
+- [ ] Cabos USB
 
 
 
 # Verificações Finais
 
--[] Notificar banco sobre viagem
+- [ ] Notificar banco sobre viagem
 
--[] Baixar mapas offline
+- [ ] Baixar mapas offline
 
--[] Confirmar check-in online
+- [ ] Confirmar check-in online
 
--[] Checar previsão do tempo
+- [ ] Checar previsão do tempo
 
 ## TUDO PRONTO!
 
@@ -63,51 +63,51 @@ Checkilist de Viagem - ViajaBem
 
 ## Documentos Essenciais
 
-[] Passaporte/Visto
+- [ ] Passaporte/Visto
 
-[x] Cartão de vacinação
+- [x] Cartão de vacinação
 
-[] Seguro viagem
+- [ ] Seguro viagem
 
-[] Reservas de hospedagem
+- [ ] Reservas de hospedagem
 
 ## Saúde e Medicamentos
 
-[] Medicamentos pessoais
+-[ ] Medicamentos pessoais
 
-[X] Kit primeiros socorros
+- [X] Kit primeiros socorros
 
-[] Protetor solar
+- [ ] Protetor solar
 
 ## Vestuário
 
--[] Roupas por clima
+- [ ] Roupas por clima
 
--[X] Calçados confortáveis
+- [X] Calçados confortáveis
 
--[] Roupa de dormir
+- [ ] Roupa de dormir
 
--[] Acessórios (óculos, chapéu)
+- [ ] Acessórios (óculos, chapéu)
 
 ## Tecnologia
 
--[] Carregadores portáteis
+- [ ] Carregadores portáteis
 
--[] Adaptadores de tomada
+- [ ] Adaptadores de tomada
 
--[X] Power bank
+- [X] Power bank
 
--[] Cabos USB
+- [ ] Cabos USB
 
 ## Verificações Finais
 
--[] Notificar banco sobre viagem
+- [ ] Notificar banco sobre viagem
 
--[] Baixar mapas offline
+- [ ] Baixar mapas offline
 
--[] Confirmar check-in online
+- [ ] Confirmar check-in online
 
--[] Checar previsão do tempo
+- [ ] Checar previsão do tempo
 
 ## -TUDO PRONTO!
 
